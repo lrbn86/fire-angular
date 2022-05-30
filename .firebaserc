@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fireangular-e02e6": {
+      "hosting": {
+        "fire-angular": [
+          "fireangular-e02e6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fireangular-e02e6"
+  }
+}
